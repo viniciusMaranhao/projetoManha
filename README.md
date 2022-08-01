@@ -1,6 +1,7 @@
 # Projeto de teste com um arquivo README 🚀
 [
-<img src="img/projeto.gif" alt="gif do projeto"/>]
+<img src="img/projeto.gif" alt="gif do projeto">
+]
 ## Tecnologias utilizadas
 - HTML
 - CSS
