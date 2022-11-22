@@ -1,7 +1,8 @@
 # Periodo do Dia
 Desafio está em mudar imagens conforme o horário informado pelo sistema.
 manhã, tarde e noite.
-[<img src="img/projeto.gif" alt="gif do projeto">]
+![](./img/projeto.gif)
+
 
 ###  Links
 
